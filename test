@@ -1,2 +1,2 @@
-GETapi.postcodes.io/postcodes/:postcode
+GET https://api.postcodes.io
 
